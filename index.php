@@ -15,7 +15,7 @@
 
 <!-- Star Body -->
 <body>
-
+<header class="header">
   <nav class="navbar navbar-expand-lg">
     <!-- Logo -->
     <a class="navbar-logo" href="#">
@@ -47,8 +47,16 @@
         </li>
       </ul>
     </div>
-  </nav>   
+  </nav>  
 
+  <div class="container h-100 animated fadeIn delay-1s">
+            <div class="row h-100 ">
+                <div class="col-12 ">
+                    <div class="proyectos_intro"  alt="intro">
+                </div>
+            </div>
+        </div> 
+</header>
 </body>
 <!-- End Body -->
 

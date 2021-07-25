@@ -1,31 +1,31 @@
-.logo{
-	width: 150px;
-	height: 40px;
+.logo {
+    width: 150px;
+    height: 40px;
 }
 
 
-.navbar-logo{
-  display: inline-block;
-  vertical-align: middle;
-  width: 70px;
+.navbar-logo {
+    display: inline-block;
+    vertical-align: middle;
+    width: 70px;
 }
 
-.nav-link{
-	color: #ffffff;
+.nav-link {
+    color: #ffffff;
 }
 
-body{
-	background: #000000;
+body {
+    background: #000000;
 }
 
-.navbar-toggler{
+.navbar-toggler {
     width: 40px;
     height: 22px;
     background-color: transparent;
-    border:none;
+    border: none;
 }
 
-.navbar-toggler .line{
+.navbar-toggler .line {
     width: 100%;
     float: left;
     height: 2px;
@@ -35,43 +35,50 @@ body{
 
 /*Medidas para formato responsive*/
 
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    .navbar{
-        margin-left: 20px;
-        margin-right: 20px;
+/* Responsive que aplicara propiedades hasta 992px */
+@media only screen and (max-width: 992px) {
+    .navbar {
+        margin-left: 30px;
+        margin-right: 30px;
     }
+
+    .header {
+        background: url(../img/intro_projects.png) no-repeat center;
+        background-size: cover;
+        min-height: 100vh;
+    }
+
+    .proyectos_intro {
+        content: url(../img/projects_responsive.png);
+        /*Centrar imagen*/
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        position: fixed;
+
+        /*Adaptar imagen cuando sea responsive*/
+        width: 100%;
+        max-width: 100%;
+    }
+
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-    .navbar{
-        margin-left: 20px;
-        margin-right: 20px;
-    }
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-    .navbar{
-        margin-left: 20px;
-        margin-right: 00px;
-    }
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-    .navbar{
+/* Responsive que aplicara propiedades a partir de 993px */
+@media only screen and (min-width: 993px) {
+    .navbar {
         margin-left: 20px;
         margin-right: 70px;
     }
-}
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-    .navbar{
-        margin-left: 50px;
-        margin-right: 70px;
+    .header {
+        background: url(../img/intro_projects.png) no-repeat center;
+        background-size: cover;
+        min-height: 100vh;
+    }
+
+    .proyectos_intro {
+        float: right;
+        content: url(../img/projects.png);
+
     }
 }
-
