@@ -63,8 +63,9 @@ body {
         width: 100%;
         max-width: 100%;
     }
+
     /*Pasar puntero*/
-     .proyectos_intro:hover {
+    .proyectos_intro:hover {
         opacity: 1;
     }
 
@@ -90,9 +91,37 @@ body {
         opacity: 0.4;
         -webkit-transition: opacity 0.3s;
         transition: opacity 0.3s;
+        padding-right: 140px;
+        padding-top: 60px;
     }
+
     /*Pasar puntero*/
     .proyectos_intro:hover {
         opacity: 1;
     }
+
+    /*Bienvenidos*/
+    .maquina_escribir {
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        height: 30%;
+        width: 50%;
+        margin: -15% 0 0 -25%;
+        color: #0066ff;
+    }
+
+    /*Eiborth gomez*/
+    .nombre {
+        position: absolute;
+        left: 50%;
+        height: 30%;
+        width: 50%;
+        margin: -15% 0 0 -25%;
+        color: #FFF;
+        top: 60%;
+    }
+
+
+
 }

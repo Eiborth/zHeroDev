@@ -10,7 +10,7 @@
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-  
+  <script src="js/javascript.js"></script>
 	<title>Document</title>
 </head>
 
@@ -50,14 +50,19 @@
     </div>
   </nav>  
 
-  <div class="container h-100 animated fadeIn delay-1s">
-            <div class="row h-100 ">
-                <div class="col-12 ">
-                    <div class="proyectos_intro"  alt="intro">
-                </div>
-            </div>
-        </div> 
+   <div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-6">
+          <h1 class="nombre animated fadeIn delay-5s" >EIBORTH GÓMEZ</h1>
+          <h5 class="maquina_escribir " id="texto" ></h5>       
+        </div>
+        <div class="animated fadeIn delay-1s col-lg-6">
+           <div class="proyectos_intro"  alt="intro"></div>   
+        </div>
+    </div>
+</div>
 </header>
+  <script src="js/javascript_second.js"></script>
 </body>
 <!-- End Body -->
 
