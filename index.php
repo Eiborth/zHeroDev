@@ -15,8 +15,11 @@
 </head>
 
 <!-- Star Body -->
-<body>
-<header class="header">
+<body id="particleWrapper">
+  <!-- particles.js container -->
+    <div id="particles-js"></div>
+<header class="header particle-title" >
+
   <nav class="navbar navbar-expand-lg">
     <!-- Logo -->
     <a class="navbar-logo" href="#">
@@ -61,8 +64,14 @@
         </div>
     </div>
 </div>
+
 </header>
+
+<!-- agrega un wrapper para asegurarse de que el título no se salga del área de partículas -->
+
   <script src="js/javascript.js"></script>
+  <script src="js/particles.min.js"></script>
+  <script src="js/particulas.js"></script>
 </body>
 <!-- End Body -->
 
