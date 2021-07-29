@@ -15,7 +15,7 @@
 }
 
 body {
-    background: #000000;
+    background: #000000;    
 }
 
 .navbar-toggler {
@@ -75,6 +75,7 @@ body {
 
 /* Responsive que aplicara propiedades a partir de 993px */
 @media only screen and (min-width: 993px) {
+
     .navbar {
         margin-left: 20px;
         margin-right: 70px;
@@ -171,6 +172,11 @@ body {
         color: #fff;
         opacity: 3;
     }
+
+    .fondo:hover {   
+    background-color: #0066ff;
+    color: #fff;
+}
 
 
 

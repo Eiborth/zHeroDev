@@ -39,16 +39,13 @@
         <!-- Opciones de menu lista -->
         <ul class="navbar-nav ">
           <li class="nav-item">
-            <a class="nav-link active" href="#">Active</a>
+            <a class="nav-link active fondo" href="#">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link fondo" href="#">Sobre mí</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            <a class="nav-link fondo" href="#">Portfolio</a>
           </li>
         </ul>
       </div>
@@ -76,7 +73,7 @@
           <ul class="copyright social-links" >    
             <li ><a href="" target="_blank"><i class="fa fa-github"></i></a></li>   
             <li ><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li> 
-            <li ><a href="" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+            <li ><a href="" target="_blank"><i class="fa fa-google"></i></a></li>
           </ul>
         </div>  
       </div>
