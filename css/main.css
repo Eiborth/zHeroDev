@@ -129,10 +129,10 @@ body {
     /* particles container */
     #particleWrapper {
         position: relative;
-        width: 100vw;
-        /* puedes cambiar este valor por lo que desea en px */
-        height: 100vh;
-        /* puedes cambiar este valor por lo que desea en px */
+        width: auto;
+        /* puedes cambiar este valor por lo que desea en px  ya que si la pagina tiene scroll esto ayuda a que las particulas cubran todo el auto es la mejor opcion porque se adapta*/
+        height: auto;
+        /* puedes cambiar este valor por lo que desea en px  ya que si la pagina tiene scroll esto ayuda a que las particulas cubran todo el auto es la mejor opcion porque se adapta*/
     }
 
     #particles-js {
@@ -144,6 +144,7 @@ body {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: 50% 50%;
+        background-attachment: fixed;
     }
 
     .pie_pagina {
@@ -172,12 +173,24 @@ body {
         color: #fff;
         opacity: 3;
     }
-
+    /*fondo azul*/
     .fondo:hover {   
-    background-color: #0066ff;
-    color: #fff;
-}
+        background-color: #0066ff;
+        color: #fff;
+    }
+    /*Proyectos*/
+    .card{
+        background-color: transparent;
+        color: #fff;
+    }
+    /*Efecto desvanecer*/
+    .desvanecer{
+        opacity: 0.4;
+    }
 
+     .desvanecer:hover {
+        opacity: 1;
+    }
 
 
 }
