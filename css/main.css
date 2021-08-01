@@ -113,6 +113,7 @@ body {
         width: 50%;
         margin: -15% 0 0 -25%;
         color: #0066ff;
+        text-align: justify;
     }
 
     /*Eiborth gomez*/
@@ -190,6 +191,45 @@ body {
 
      .desvanecer:hover {
         opacity: 1;
+    }
+
+    /*Desvanecer*/
+    .about_intro {
+        filter: grayscale(100%);
+        float: right;
+        content: url(../img/about.png);
+        opacity: 0.7;
+        -webkit-transition: opacity 0.3s;
+        transition: opacity 0.3s;
+        padding-right: 140px;
+        padding-top: 60px;
+    }
+
+    /*Pasar puntero*/
+    .about_intro:hover {
+        filter: grayscale(0%);
+        opacity: 1;
+    }
+
+     .about_question {
+        position: absolute;
+        left: 50%;
+        height: 30%;
+        width: 50%;
+        margin: -15% 0 0 -25%;
+        color: #0066ff;;
+        top: 30%;
+    }
+
+    .about_description {
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        height: 30%;
+        width: 50%;
+        margin: -15% 0 0 -25%;
+        color: #FFFFFF;
+        text-align: justify;
     }
 
 
