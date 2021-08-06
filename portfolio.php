@@ -58,7 +58,7 @@
             <img class="card-img-top" src="img/odig_portfolio.png">          
             <div class="card-body">
               <h4 class="card-title" >Odig - App movil</h4>
-              <p class="card-text">Ahorra de la mejor manera enfocandote en un solo objetivo, estableciendo una meta fija, el valor de tu meta y mostrando cuanto llevas <a href="details/detail_odig.html"> ver mas...</a></p>
+              <p class="card-text">Ahorra de la mejor manera enfocandote en un solo objetivo, estableciendo una meta fija, el valor de tu meta y mostrando cuanto llevas <a href="apks/Odig.apk">Ver apk.</a></p>
               <!-- <a href="#" class="btn btn-primary">Entrar</a> -->
             </div>
           </div>          
@@ -69,7 +69,7 @@
             <img class="card-img-top" src="img/myform_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title" >My form - App movil</h4>
-              <p class="card-text">Encargada de llevar un conteo de metas de forma individual por cada usuario, mostrando informacion  respaldada en tiempo real <a href=""> ver mas..</a></p>
+              <p class="card-text">Encargada de llevar un conteo de metas de forma individual por cada usuario, mostrando informacion  respaldada en tiempo real <a href="apks/Myform.apk">Ver apk.</a></p>
               <!-- <a href="#" class="btn btn-primary">Entrar</a> -->
             </div>
           </div>      
@@ -80,7 +80,7 @@
             <img class="card-img-top" src="img/alcambio_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title">Al cambio - App movil</h4>
-              <p class="card-text">Ayuda a visualizar y realizar el calculo de cambio de algunas monedas permitiendo que el usuario ingrese la la tasa y la moneda junto a la cantidad <a href=""> ver mas..</a></p>
+              <p class="card-text">Ayuda a visualizar y realizar el calculo de cambio de algunas monedas permitiendo que el usuario ingrese la la tasa y la moneda junto a la cantidad <a href="apks/Alcambio.apk">Ver apk.</a></p>
               <!-- <a href="#" class="btn btn-primary">Entrar</a> -->
             </div>
           </div>          
@@ -97,7 +97,7 @@
             <img class="card-img-top" src="img/maxicolors_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title">Servicios maxicolors - Pagina web</h4>
-              <p class="card-text">Ofreciendo servicio de latoneria y pintura maxicolors trabaja con materiales de alta calidad como <a href=""> ver mas..</a></p>
+              <p class="card-text">Ofreciendo servicio de latoneria y pintura maxicolors trabaja con materiales de alta calidad como <a href="https://serviciosmaxicolors.herokuapp.com/">Ver proyecto.</a></p>
               <!-- <a href="#" class="btn btn-primary">Entrar</a> -->
             </div>
           </div>          
@@ -107,7 +107,7 @@
             <img class="card-img-top" src="img/brutal_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title">Brutal player - Pagina web</h4>
-              <p class="card-text">Donde comprar y cambiar tus video juegos brutal player es una opcion para los amantes del gaming <a href=""> ver mas..</a></p>
+              <p class="card-text">Donde comprar y cambiar tus video juegos brutal player es una opcion para los amantes del gaming <a href="https://brutalp.herokuapp.com/">Ver proyecto.</a></p>
               <!-- <a href="#" class="btn btn-primary">Entrar</a> -->
             </div>
           </div>          
