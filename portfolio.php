@@ -39,13 +39,13 @@
         <!-- Opciones de menu lista -->
         <ul class="navbar-nav ">
           <li class="nav-item">
-            <a class="nav-link active fondo" href="index.html">Inicio</a>
+            <a class="nav-link active nav_background" href="index.php">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fondo" href="about.html">Sobre mí</a>
+            <a class="nav-link nav_background" href="about.php">Sobre mí</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fondo" href="portfolio.html">Portfolio</a>
+            <a class="nav-link nav_background" href="portfolio.php">Portfolio</a>
           </li>
         </ul>
       </div>
@@ -54,7 +54,7 @@
     <div class="container animated fadeIn delay-1s">   
     <div class="row">       
       <div class="col-md">        
-          <div class="desvanecer card ">
+          <div class="card ">
             <img class="card-img-top" src="img/odig_portfolio.png">          
             <div class="card-body">
               <h4 class="card-title" >Odig - App movil</h4>
@@ -65,7 +65,7 @@
       </div>    
 
        <div class="col-md">        
-           <div class="desvanecer card ">
+           <div class="card ">
             <img class="card-img-top" src="img/myform_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title" >My form - App movil</h4>
@@ -76,7 +76,7 @@
       </div>
 
       <div class="col-md">        
-          <div class="desvanecer card ">
+          <div class="card ">
             <img class="card-img-top" src="img/alcambio_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title">Al cambio - App movil</h4>
@@ -93,7 +93,7 @@
   <div class="container animated fadeIn delay-1s">   
     <div class="row">
       <div class="col-md">        
-          <div class="desvanecer card ">
+          <div class="card ">
             <img class="card-img-top" src="img/maxicolors_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title">Servicios maxicolors - Pagina web</h4>
@@ -103,7 +103,7 @@
           </div>          
       </div>
       <div class="col-md">        
-          <div class="desvanecer card ">
+          <div class="card ">
             <img class="card-img-top" src="img/brutal_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title">Brutal player - Pagina web</h4>
@@ -130,9 +130,9 @@
 
   </div>
    <!-- Pie de pagina -->
-   <footer style="top: 10%" class="main-footer animated fadeIn delay-1s">
+   <footer  class="main-footer animated fadeIn delay-1s">
     <div class="container ">
-      <div class="row pie_pagina">
+      <div class="row web_footer_portfolio">
         <div class="col-sm-12">
           <div class="copyright">
             Copyright © 2021 <a  href="https://zherodev.com">zherodev | by Eiborth Gómez</a>

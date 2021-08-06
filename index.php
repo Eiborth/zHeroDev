@@ -39,13 +39,13 @@
         <!-- Opciones de menu lista -->
         <ul class="navbar-nav ">
           <li class="nav-item">
-            <a class="nav-link active fondo" href="index.html">Inicio</a>
+            <a class="nav-link active nav_background" href="index.php">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fondo" href="about.html">Sobre mí</a>
+            <a class="nav-link nav_background" href="about.php">Sobre mí</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fondo" href="portfolio.html">Portfolio</a>
+            <a class="nav-link nav_background" href="portfolio.php">Portfolio</a>
           </li>
         </ul>
       </div>
@@ -54,18 +54,18 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-6">
-          <h1 class="nombre animated fadeIn delay-5s" >EIBORTH GÓMEZ</h1>
-          <h5 class="maquina_escribir animated fadeIn delay-0.9s" id="texto" ></h5>       
+          <h1 class="main_title name animated fadeIn delay-5s" >EIBORTH GÓMEZ</h1>
+          <h5 class="typewriter animated fadeIn delay-0.9s" id="texto" ></h5>       
         </div>
         <div class="animated fadeIn delay-2s col-lg-6">
-         <div class="proyectos_intro"  alt="intro"></div>   
+         <div class="intro vanish_effect "  alt="intro"></div>   
        </div>
      </div>
    </div>
    <!-- Pie de pagina -->
    <footer style="top: 10%" class="main-footer animated fadeIn delay-1s">
     <div class="container ">
-      <div class="row pie_pagina">
+      <div class="row web_footer">
         <div class="col-sm-12">
           <div class="copyright">
             Copyright © 2021 <a  href="https://zherodev.com">zherodev | by Eiborth Gómez</a>
