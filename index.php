@@ -72,7 +72,7 @@
             Copyright © 2021 <a  href="https://zherodev.herokuapp.com/">zherodev | by Eiborth Gómez</a>
           </div>
           <ul class="copyright social-links" >    
-            <li ><a href="www.linkedin.com/in/eiborth-gómez-zherodev" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+            <li ><a href='https://www.linkedin.com/in/eiborth-g%C3%B3mez-zherodev/' target="_blank"><i class="fa fa-linkedin"></i></a></li>
           </ul>
         </div>  
       </div>

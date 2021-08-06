@@ -97,7 +97,7 @@
             <img class="card-img-top" src="img/maxicolors_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title">Servicios maxicolors - Pagina web</h4>
-              <p class="card-text">Ofreciendo servicio de latoneria y pintura maxicolors trabaja con materiales de alta calidad como <a href="https://serviciosmaxicolors.herokuapp.com/">Ver proyecto.</a></p>
+              <p class="card-text">Ofreciendo servicio de latoneria y pintura maxicolors trabaja con materiales de alta calidad como <a href="https://serviciosmaxicolors.herokuapp.com/" target="_blank">Ver proyecto.</a></p>
               <!-- <a href="#" class="btn btn-primary">Entrar</a> -->
             </div>
           </div>          
@@ -107,7 +107,7 @@
             <img class="card-img-top" src="img/brutal_portfolio.png">            
             <div class="card-body">
               <h4 class="card-title">Brutal player - Pagina web</h4>
-              <p class="card-text">Donde comprar y cambiar tus video juegos brutal player es una opcion para los amantes del gaming <a href="https://brutalp.herokuapp.com/">Ver proyecto.</a></p>
+              <p class="card-text">Donde comprar y cambiar tus video juegos brutal player es una opcion para los amantes del gaming <a href="https://brutalp.herokuapp.com/" target="_blank">Ver proyecto.</a></p>
               <!-- <a href="#" class="btn btn-primary">Entrar</a> -->
             </div>
           </div>          
@@ -132,13 +132,13 @@
    <!-- Pie de pagina -->
    <footer  class="main-footer animated fadeIn delay-1s">
     <div class="container ">
-      <div class="row web_footer_portfolio">
+      <div class="row web_footer_portfolio web_footer">
         <div class="col-sm-12">
           <div class="copyright">
             Copyright © 2021 <a  href="https://zherodev.herokuapp.com/">zherodev | by Eiborth Gómez</a>
           </div>
           <ul class="copyright social-links" >     
-            <li ><a href="www.linkedin.com/in/eiborth-gómez-zherodev" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+            <li ><a href='https://www.linkedin.com/in/eiborth-g%C3%B3mez-zherodev/' target="_blank"><i class="fa fa-linkedin"></i></a></li>
           </ul>
         </div>  
       </div>
