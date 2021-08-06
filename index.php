@@ -24,7 +24,7 @@
 
     <nav class=" animated fadeIn delay-1s navbar navbar-expand-lg">
       <!-- Logo -->
-      <a class="navbar-logo" href="#">
+      <a class="navbar-logo" href="https://zherodev.herokuapp.com/">
         <img class ="logo" src="img/zherodev_logo.png" alt="">
       </a>
       <!-- boton toggle cuando la vista es en movil -->
@@ -69,12 +69,10 @@
       <div class="row web_footer">
         <div class="col-sm-12">
           <div class="copyright">
-            Copyright © 2021 <a  href="https://zherodev.com">zherodev | by Eiborth Gómez</a>
+            Copyright © 2021 <a  href="https://zherodev.herokuapp.com/">zherodev | by Eiborth Gómez</a>
           </div>
           <ul class="copyright social-links" >    
-            <li ><a href="" target="_blank"><i class="fa fa-github"></i></a></li>   
-            <li ><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li> 
-            <li ><a href="" target="_blank"><i class="fa fa-google"></i></a></li>
+            <li ><a href="www.linkedin.com/in/eiborth-gómez-zherodev" target="_blank"><i class="fa fa-linkedin"></i></a></li>
           </ul>
         </div>  
       </div>
