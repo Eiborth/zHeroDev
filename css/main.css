@@ -94,12 +94,13 @@ body {
     /*Reusable effect ---------------------------------------------------------------------------------------------------- */
     .main_title {
         position: fixed;/* The element is positioned relative to its first positioned (not static) ancestor element */
-        left: 52%;/* left separation */
+           left: 46.5%;/* left separation */
         height: 30%;
         /*width: 50%;*/
         margin: -5% 0 0 -40%;/*top - left*/
          text-align: center;
          padding: center;
+         
 
 
     }
