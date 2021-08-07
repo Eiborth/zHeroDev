@@ -13,6 +13,7 @@
   <!-- <script src="js/javascript.js"></script> -->
   <script src="https://use.fontawesome.com/57a0a1faad.js"></script>
   <title>zHeroDev</title>
+  <link rel="icon" type="image/ico" href="img/zD_logo.ico">
 </head>
 
 <!-- Star Body -->
