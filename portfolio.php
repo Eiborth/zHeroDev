@@ -133,7 +133,7 @@
    <!-- Pie de pagina -->
    <footer  class="main-footer animated fadeIn delay-1s">
     <div class="container ">
-      <div class="row web_footer_portfolio_fix">
+      <div class="row web_footer_portfolio_fix web_footer">
         <div class="col-sm-12">
           <div class="copyright">
             Copyright © 2021 <a  href="https://zherodev.herokuapp.com/">zherodev | by Eiborth Gómez</a>
